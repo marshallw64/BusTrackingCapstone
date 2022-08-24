@@ -17,5 +17,5 @@ ___
 When  
 
 1. How To not get scammed
-  -don't take item overpay if its _"festive"_
-2. idk. 
+ - don't take item overpay if its _"festive"_
+3. idk. 
