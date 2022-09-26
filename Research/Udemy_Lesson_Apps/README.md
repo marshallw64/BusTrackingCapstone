@@ -7,4 +7,4 @@ This is where all of the apps we develped during the Udemy lessions are. There a
 * User Experince Design Fundamentals (Nicholas)
 * Complete App Design Course (Nicholas)
 
-## All Course Will Be Completed By 10/31
+## All Courses Will Be Completed By 10/31
