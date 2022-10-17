@@ -1,0 +1,6 @@
+objc[28977]: Class NSURLSessionDelegate is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/NetworkServiceProxy.framework/NetworkServiceProxy (0x7fff87c50698) and /Users/mxw6267/Library/Developer/CoreSimulator/Devices/2C757CC6-1DFA-43C2-A1F9-C50FD08FE587/data/Containers/Bundle/Application/B67A27ED-A8FB-44E3-938D-EA65E98F5701/Test.iOS.app/Test.iOS (0x1040bc100). One of the two will be used. Which one is undefined.
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2022-09-14 15:17:30.998929-0500 Test.iOS[28977:264253] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=28977
+2022-09-14 15:17:30.999382-0500 Test.iOS[28977:264253] SecTaskCopyDebugDescription: Test.iOS[28977]/0#-1 LF=0
+2022-09-14 15:17:31.024577-0500 Test.iOS[28977:264253] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=28977
+2022-09-14 15:17:31.025086-0500 Test.iOS[28977:264253] SecTaskCopyDebugDescription: Test.iOS[28977]/0#-1 LF=0

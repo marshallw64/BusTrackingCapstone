@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{2D51DDF6-B541-41E3-A409-2F893571861D}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.75F463C0-E84A-473D-B8C3-0BF41B75C709" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Test.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.75F463C0-E84A-473D-B8C3-0BF41B75C709" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Test.Android PreferredExecutionTarget="Android.pixel_4_-_api_32" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Test/MainPage.xaml">
+    <Files>
+      <File FileName="Test/Test/MainPage.xaml.cs" Line="20" Column="13" />
+      <File FileName="Test/Test/MainPage.xaml" Line="8" Column="38" />
+      <File FileName="Test/Test/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Test" expanded="True">
+            <Node name="Test" expanded="True">
+              <Node name="obj" expanded="True">
+                <Node name="Debug" expanded="True">
+                  <Node name="netstandard2.0" expanded="True">
+                    <Node name="ref" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Test.Android" expanded="True" />
+            <Node name="Test.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
